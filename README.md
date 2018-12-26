@@ -1,5 +1,6 @@
 <div dir="rtl"> 
-Shecan تحریم شکن
+ Shecan تحریم شکن
+![ُShacan](https://github.com/rezaf28/Shecan/raw/master/Shecan/resources/px_shecan_ico.Image.png)
 
 با «شکن» تحریم های اینترنتی رو بی اثر کن! 
 
