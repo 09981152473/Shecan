@@ -16,4 +16,10 @@ https://shecan.ir
 نرم افزار اندروید:
 
 https://shecan.ir/shecan.apk 
+
+نرم افزار ویندوز:
+
+https://github.com/rezaf28/Shecan/releases/download/V1.0/Shecan.exe
+
+
 </div>
