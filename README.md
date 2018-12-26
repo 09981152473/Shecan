@@ -22,4 +22,7 @@ https://shecan.ir/shecan.apk
 https://github.com/rezaf28/Shecan/releases/download/V1.0/Shecan.exe
 
 
+لینک اسکن :
+
+https://www.virustotal.com/#/url/b835f5906d130f1880d87af8b15ed7da1eea5432c7c187fc658eead25396f6c9/detection
 </div>
