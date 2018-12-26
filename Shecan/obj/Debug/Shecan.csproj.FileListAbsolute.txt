@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\SharpDevelop Projects\Shecan\Shecan\bin\Debug\Shecan.exe.config
+C:\Users\PC\Documents\SharpDevelop Projects\Shecan\Shecan\bin\Debug\Shecan.exe
+C:\Users\PC\Documents\SharpDevelop Projects\Shecan\Shecan\bin\Debug\Shecan.pdb
+C:\Users\PC\Documents\SharpDevelop Projects\Shecan\Shecan\obj\Debug\Shecan.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\SharpDevelop Projects\Shecan\Shecan\obj\Debug\Shecan.MainForm.resources
+C:\Users\PC\Documents\SharpDevelop Projects\Shecan\Shecan\obj\Debug\Shecan.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\SharpDevelop Projects\Shecan\Shecan\obj\Debug\Shecan.exe
+C:\Users\PC\Documents\SharpDevelop Projects\Shecan\Shecan\obj\Debug\Shecan.pdb
